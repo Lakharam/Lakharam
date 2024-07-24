@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lakha Ram</h1>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw0w_iDhMocd9bbapFtJCIQG&ust=1721911957360000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDK1fTdv4cDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw0w_iDhMocd9bbapFtJCIQG&ust=1721911957360000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDK1fTdv4cDFQAAAAAdAAAAABAK">
  
 
  
@@ -16,6 +16,6 @@
 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakharam&show_icons=true&locale=en" alt="lakharam" /></p>
+ 
 
 
