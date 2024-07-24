@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Lakha Ram</h1>
 --
-#<h3 align="center">I'm a passionate explorer pursuing B.Tech at NIT Rourkela.</h3>
+<h3 align="center">I'm a passionate explorer pursuing B.Tech at NIT Rourkela.</h3>
 
 ---
 
