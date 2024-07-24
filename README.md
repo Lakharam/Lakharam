@@ -2,9 +2,9 @@
   <img alt="coding" width="850" height="300" src="https://github.com/user-attachments/assets/d8956a09-23dd-4b48-a744-28e5cc83a78b">
 </p>
 
-# <p align="center">Hi there, I'm Lakha Ram</p>
+<h1 align="center">Hi there, I'm Lakha Ram</h1>
 
-#<p align="center">I'm a passionate explorer pursuing B.Tech at NIT Rourkela.</p>
+<h3 align="center">I'm a passionate explorer pursuing B.Tech at NIT Rourkela.</h3>
 
 ---
 
@@ -14,5 +14,3 @@ Welcome to my GitHub Profile!
 - Currently, I'm a newbie in development and exploring the MERN stack.
 
 ---
-
- 
