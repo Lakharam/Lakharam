@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakha Ram</h1>
 
 <p align="center">
-  <img alt="coding" width="500" height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+  <img alt="coding" width="500" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxdwVeGXmPb9rdESKVRt7TgZDdwVwfE_j0w&s">
 </p>
 
 # Hi there, I'm Lakha Ram
