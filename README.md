@@ -1,8 +1,9 @@
+<p align="center">
+  <img alt="coding" width="500" height="200" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxdwVeGXmPb9rdESKVRt7TgZDdwVwfE_j0w&s](https://user-images.githubusercontent.com/80444886/170894259-89b536b3-ac06-48d1-a2f4-ab80174ebe2c.png)">
+</p>
 <h1 align="center">Hi 👋, I'm Lakha Ram</h1>
 
-<p align="center">
-  <img alt="coding" width="500" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxdwVeGXmPb9rdESKVRt7TgZDdwVwfE_j0w&s">
-</p>
+ 
 
 # Hi there, I'm Lakha Ram
 
