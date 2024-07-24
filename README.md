@@ -2,9 +2,9 @@
   <img alt="coding" width="850" height="300" src="https://github.com/user-attachments/assets/d8956a09-23dd-4b48-a744-28e5cc83a78b">
 </p>
 
-# Hi there, I'm Lakha Ram
+# <p align="center">Hi there, I'm Lakha Ram</p>
 
-I'm a passionate explorer pursuing B.Tech at NIT Rourkela.
+#<p align="center">I'm a passionate explorer pursuing B.Tech at NIT Rourkela.</p>
 
 ---
 
