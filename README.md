@@ -4,13 +4,16 @@
 
 <h1 align="center">Hi there, I'm Lakha Ram</h1>
  
-<h3 align="center">rx</h3>
+<h3 align="center"> 👋</h3>
 
 ---
 
-<h3 align="left">Welcome to my GitHub Profile! <h3></h3>
+<h3 align="left">Welcome to my GitHub Profile!</h3>
+
 - I'm a final year student at NIT Rourkela.
 - I am a competitive programmer who finds joy in learning and problem-solving.
-- Currently, I'm currently working on MERN stack.
+- Currently, I'm working on the MERN stack.
 
 ---
+
+
