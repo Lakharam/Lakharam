@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Hi there 👋</h1>
- 
-<h3 align="center"> I'm Lakha Ram</h3>
+
+ --
+<h1 align="center"> I'm Lakha Ram</h1>
 
 ---
 
