@@ -2,7 +2,7 @@
   <img alt="coding" width="830" height="300" src="https://github.com/user-attachments/assets/d8956a09-23dd-4b48-a744-28e5cc83a78b">
 </p>
 
-<h1 align="center">Hi there 👋<br/>I'm Lakha Ram</h1>
+<h1 align="center">Hi there 👋 <br/><br/> I'm Lakha Ram</h1>
  
 
  
