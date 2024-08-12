@@ -6,8 +6,6 @@
 
 <h1 align="center"> I'm Lakha Ram</h1>
 
----
-
 <h3 align="left">Welcome to my GitHub Profile!</h3>
 
 - I'm a final year student at NIT Rourkela.
@@ -15,5 +13,3 @@
 - Currently, I'm working on the MERN stack.
 
 ---
-
-
