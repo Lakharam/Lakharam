@@ -11,6 +11,6 @@
 
 - I'm a final year student at NIT Rourkela.
 - I am a competitive programmer who finds joy in learning and problem-solving.
-- Currently, I'm working on the MERN stack.
+- Currently, I'm learning MERN stack.
 
 ---
